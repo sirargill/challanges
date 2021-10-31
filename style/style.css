@@ -13,10 +13,10 @@ body{
 .outer-most-box{
     /* position: absolute; */
     width: 28.125rem;
-    margin: 3.75rem auto 0 auto;
+    margin: 5.35rem auto 0 auto;
     background-color: whitesmoke;
     border-radius: 1.875rem;
-    height: 37rem;
+    height: 44.03rem;
 }
 
 .paragraph{
