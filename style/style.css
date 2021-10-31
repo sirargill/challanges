@@ -16,14 +16,15 @@ body{
     margin: 5.35rem auto 0 auto;
     background-color: whitesmoke;
     border-radius: 1.875rem;
-    height: 44.03rem;
+    height: 44.637rem;
 }
 
 .paragraph{
     line-height: 1.5;
     font-weight: 500;
-    
     color: hsl(224, 23%, 55%);
+    position: relative;
+    top: 1.5625rem;
 }
 
 .heading{
@@ -84,6 +85,7 @@ a:hover{
     left: 31.25rem; */
     position: relative;
     right: 1.375rem;
+    top: 6.26rem;
     
  }
  
@@ -101,10 +103,21 @@ a:hover{
     color: hsl(224, 23%, 55%);
     margin-top: 4.375rem;
     position: relative;
-    bottom: 2.5rem;
+    top: 5.21rem;
+    /* bottom: 2.5rem; */
 }
 
 .image{
     border-radius: 15px 15px 0 0;
 }
 
+
+.new-made-for-push{
+    position: relative;
+    top: 5.175rem;
+}
+
+.change{
+    position: relative;
+    top: 0.6rem;
+}
